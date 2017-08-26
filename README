@@ -1,0 +1,17 @@
+This file include all the files related to topics and each others, and also some useful information about this project
+
+/****
+/List of all the chapter with their filesname
+/
+/
+****/
+
+1.How to make the custom module, exports use with require in your js file(requireMain.js)
+
+2. Server in nodeJs (server.js)
+
+3. Events in nodeJs(events.js)
+
+4. Module States (mainModule, scriptMainModule,scriptModule1,scriptModule2)
+
+
