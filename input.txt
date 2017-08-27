@@ -1,1 +1,8 @@
-helo text data file
+hello 
+
+This is my first node js
+
+file reading 
+
+
+program
